@@ -1,5 +1,5 @@
 # Bachelor Thesis Project Data & Logs
-This repository contains the data files referenced in the Bachelor Thesis "Evaluating Direct Prompt Injection Counter-measures in API-Integrated LLMs Using Ad-versarial Prompt Generation" written by David Ung for his Bachelor Thesis at the University of Applied Sciences Technikum Wien. It contains the full contents of all evaluated data which can be further replicated by the logs included.
+This repository contains the data files referenced in the Bachelor Thesis "Evaluating Direct Prompt Injection Counter-measures in API-Integrated LLMs Using Ad-versarial Prompt Generation" written by David Ung for his Bachelor Thesis at the University of Applied Sciences Technikum Wien. It contains the full contents of all evaluated data which can be further replicated by the logs included. As there are over 1700 log files / data rows, appending this to the Thesis was deemed to no be a viable option and this is provided in its stead and linked in the Appendix B.
 
 ### Benign Results
 Contains the logs of benign prompts which were sent into the program as a sanity check.
